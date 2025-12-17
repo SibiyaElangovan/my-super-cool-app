@@ -1,7 +1,7 @@
 function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '100px' }}>
-      <h1>Hello everyone! I just learned how to use branches! 🚀</h1>
+      <h1>Hello everyone! This is my Second Branch! 🚀</h1>
     </div>
   )
 }
